@@ -1032,6 +1032,10 @@ button:focus {
    Portfolio Section
    ========================================================================== */
 #portfolios {
+  background: #d8f9ff;
+}
+
+#services {
   background: #f9f9f9;
 }
 
