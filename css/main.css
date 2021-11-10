@@ -1031,8 +1031,18 @@ button:focus {
 /* ==========================================================================
    Portfolio Section
    ========================================================================== */
-#portfolios {
+
+
+#features {
   background: #d8f9ff;
+}
+
+#testimony {
+  background: #d8f9ff;
+}
+
+#team {
+  background: #ffffff;
 }
 
 #services {
@@ -1997,7 +2007,7 @@ textarea {
 }
 
 #contact {
-  background: #ffffff;
+  background: #f9f9f9;
   position: relative;
   overflow: hidden;
 }
