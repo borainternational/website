@@ -1359,7 +1359,7 @@ button:focus {
   color: #F97794;
   text-align: center;
   float: left;
-  margin-right: 25px;
+  
   margin-bottom: 85px;
   display: block;
 }
@@ -2419,3 +2419,6 @@ p.paragraph-vision {
   font-family: 'Open Sans', sans-serif;
   margin-bottom: 0;
 }
+
+
+
